@@ -1,0 +1,5 @@
+﻿Bananer, 100, 12, kg
+Kaffe, 200, 35, st
+Tomater, 300, 21, kg
+Gurka, 400, 10, st
+Läsk, 500, 17, st
